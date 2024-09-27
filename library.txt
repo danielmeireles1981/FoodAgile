@@ -1,0 +1,10 @@
+npm install react-native
+npm install react-native-pdf
+npm install jspdf
+expo install expo-file-system
+expo install expo-sharing
+expo install expo-document-picker
+npm install @react-navigation/native
+npm install @react-navigation/stack
+npm install react-native-screens
+npm install react-native-safe-area-context
